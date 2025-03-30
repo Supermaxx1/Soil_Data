@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "971526485142",
+    "firebase_url": "https://farmer-help-8e7d9-default-rtdb.firebaseio.com",
+    "project_id": "farmer-help-8e7d9",
+    "storage_bucket": "farmer-help-8e7d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971526485142:android:1d3d11847e7a14809b3eb7",
+        "android_client_info": {
+          "package_name": "com.example.agriot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaLiZ0aznplkdLnhSo5oIBttLpo_pBuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971526485142:android:e993e4c0822391949b3eb7",
+        "android_client_info": {
+          "package_name": "com.example.farmer_help"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaLiZ0aznplkdLnhSo5oIBttLpo_pBuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
